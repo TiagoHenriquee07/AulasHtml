@@ -179,6 +179,7 @@ header .container {
     animation: slide-up 1s cubic-bezier(0.165, 0.84, 0.44, 1) 0.4s forwards;
     opacity: 0;
     letter-spacing: 0.5px;
+    text-decoration: none;
 }
 
 .btn:hover {
